@@ -1,0 +1,5 @@
+Write a function to delete elements from an Array
+Example:
+
+['this', 'is', 'an', 'array']-> delete 'this', 'is';
+//['simple', 'array']
